@@ -1,0 +1,193 @@
+
+body{
+  margin:0 auto 0 auto;
+  text-align: center;
+  font-family:"Montserrat", sans-serif;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  padding: 20px;
+  font-family: "Sacramento",sans-serif;
+}
+h2{
+  margin-top: 50px;
+}
+.top-container {
+  background-color: #CCF6C8;
+  position:relative;
+
+}
+.favtrack{
+  margin: 0 auto 0 auto;
+  padding: 0;
+  font-size: 50px;
+  font-family: "Sacramento",sans-serif;
+  }
+
+.profile img{
+  padding-top: 40px;
+  margin: 0 auto 0 auto;
+
+  height: 300px;
+  width: 300px
+}
+.profile{
+font-size: 50px;
+font-family: "Sacramento",sans-serif;
+}
+.content2 {
+
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  font-family: "Sacramento",sans-serif;
+
+
+}
+.track{
+  background-color: #e8e8e8;
+  color: white;
+}
+.hobby {
+  padding: 40px;
+  margin: 0;
+  background-color: #394867;
+  color: white;
+
+}
+.about p {
+padding: 100px;
+}
+.content p{
+  padding: 100px;
+}
+.facebook {
+
+  height: 100px;
+  width:100px;
+  position: relative;
+  left:375px;
+}
+.instagram  {
+  position: relative;
+  height: 100px;
+  width:100px;
+  left:475px;
+  bottom:100px
+}
+.twitter  {
+  position: relative;
+  height: 100px;
+  width:100px;
+  left:575px;
+  bottom:200px
+}
+
+.baby{
+  height: 100px;
+  width:100px;
+  position: fixed;
+  right:500px
+
+}
+.craving{
+  margin: 0 auto 0 auto;
+  font-size: 50px;
+  font-family: "Sacramento",sans-serif;
+
+}
+hr{
+  margin: 0;
+
+}
+
+.bottom-container{
+  margin: 0;
+  padding:0;
+  background-color: #8675a9;
+  color:white
+}
+
+.pizza {
+
+  margin:0;
+  height: 300px;
+  width : 300px;
+  position: relative;
+  left:400px
+
+}
+.prawn{
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  width : 200px;
+  position: relative;
+  left:600px;
+  bottom:300px
+
+
+
+}
+.icecream{
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  width : 200px;
+  position: relative;
+  left:800px;
+  bottom:500px;
+  display:block;
+}
+
+
+.pizza img {
+  margin: 0;
+  padding: 0;
+  height: 200px;
+  width : 200px;
+  position: absolute;
+  left:50px;
+  right:50px;
+  top:50px;
+  bottom: 50px;
+
+
+
+}
+.m{
+  background-color: #fca652;
+  padding-top:50px;
+  padding-bottom: 0px;
+  color: white;
+}
+.prawn img {
+
+  height: 200px;
+  width : 200px;
+  position: absolute;
+  left:50px;
+  right:50px;
+  top:50px;
+  bottom: 50px;
+
+
+
+}
+.icecream img {
+
+  height: 200px;
+  width : 200px;
+  position: absolute;
+  left:50px;
+  right:50px;
+  top:50px;
+  bottom: 50px;
+
+}
+.bottom-container{
+  padding: 200px
+}
+.track{
+  padding: 100px
+}
